@@ -1,6 +1,4 @@
 from collections import Counter
-from time import sleep
-from random import randint
 from fei.ppds import Mutex, Thread
 
 
