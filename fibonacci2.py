@@ -6,7 +6,7 @@ from simplebarrier import SimpleBarrier
 """
 This program implements computation of fibonacci sequence using N-threads with N+1 Event 
 synchronization objects. Before computing the fibonacci sequence, program waits for all threads
-to finish initialization using SimpleBarrier from problem1.py.
+to finish initialization using SimpleBarrier from simplebarrier.py.
 """
 
 

@@ -4,7 +4,7 @@ from fei.ppds import Thread, print
 from simplebarrier import SimpleBarrier
 
 """
-This program uses implementation of ADT SimpleBarrier from problem1.py file and tests it as reusable Barrier on
+This program uses implementation of ADT SimpleBarrier from simplebarrier.py file and tests it as reusable Barrier on
 infinite cycle with 10 threads.
 """
 
