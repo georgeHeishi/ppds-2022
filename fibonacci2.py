@@ -1,7 +1,7 @@
 from fei.ppds import Thread, Event, print
 from random import randint
 from time import sleep
-from problem1 import SimpleBarrier
+from simplebarrier import SimpleBarrier
 
 """
 This program implements computation of fibonacci sequence using N-threads with N+1 Event 
@@ -53,4 +53,5 @@ fib_seq[1] = 1
 
 [t.join() for t in threads]
 
+print("Final fibonacci sequence");
 print(fib_seq)

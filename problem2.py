@@ -1,7 +1,7 @@
 from random import randint
 from time import sleep
 from fei.ppds import Thread, print
-from problem1 import SimpleBarrier
+from simplebarrier import SimpleBarrier
 
 """
 This program uses implementation of ADT SimpleBarrier from problem1.py file and tests it as reusable Barrier on
