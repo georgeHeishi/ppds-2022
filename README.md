@@ -8,4 +8,5 @@ Repository for course Paralel programming and distributed systems at FEI STU.
 
 Course is divided between 10 assigments in their corresponding branch:
 
-1. 01 Course introduction - [branch](https://github.com/georgeHeishi/ppds-2022/tree/01)
+1. 01 Course Introduction - [branch](https://github.com/georgeHeishi/ppds-2022/tree/01)
+2. 02 Turnstile, Barrier? - [branch](https://github.com/georgeHeishi/ppds-2022/tree/02)
