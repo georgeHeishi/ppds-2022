@@ -1,13 +1,23 @@
 '''
-Author: Juraj Lapcak 
-
 This script implements solution to philosophers dining problem. 
+
+This script requires module `fei.ppds` installed withing Python environment.
+
+This file contains following functions: 
+    think
+    eat
+    get_forks
+    put_fork
+    philosophers_loop
+    
 Done with help and instructions from our lovely teacher and supervisor Matus Jokay at STU FEI.
 '''
 
 from random import randint
 from time import sleep
 from fei.ppds import Thread, Semaphore, print
+
+__author__ = "Juraj Lapcak, Matus Jokay"
 
 
 def think(philosopher_id):
