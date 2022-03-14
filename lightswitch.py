@@ -5,10 +5,9 @@ This file can also be imported as module and contains following class:
     Lightswitch - implemented ADT Lightswitch
 '''
 
-__author__ = "Juraj Lapcak, Matus Jokay"
-
-
 from fei.ppds import Mutex
+
+__author__ = "Juraj Lapcak, Matus Jokay"
 
 
 class Lightswitch:
