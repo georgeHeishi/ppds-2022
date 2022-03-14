@@ -2,7 +2,7 @@
 This script requires module `fei.ppds` installed withing Python environment.
 
 This file can also be imported as module and contains following class:
-    Lightswitch - implemented ADT Lightswitch
+    Lightswitch - implemented ADC Lightswitch
 '''
 
 from fei.ppds import Mutex
