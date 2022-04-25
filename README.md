@@ -15,3 +15,4 @@ Course is divided between 10 assigments in their corresponding branch:
 5. 05 Smokers, Dinning Savages - [05 branch](https://github.com/georgeHeishi/ppds-2022/tree/05)
 6. 06 Barbershop - [06 branch](https://github.com/georgeHeishi/ppds-2022/tree/06)
 7. 07 Asynchronous programming in Python using coroutines - [07 branch](https://github.com/georgeHeishi/ppds-2022/tree/07)
+8. 08 Native python asynchronous programming - [08 branch](https://github.com/georgeHeishi/ppds-2022/tree/08)
